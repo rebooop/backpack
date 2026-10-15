@@ -1,1 +1,1 @@
-The maximum value is 2064
+The maximum value is 655
